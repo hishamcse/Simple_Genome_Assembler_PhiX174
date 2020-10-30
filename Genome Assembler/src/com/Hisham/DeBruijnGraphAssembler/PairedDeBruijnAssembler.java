@@ -8,7 +8,11 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.*;
 
-// lets imagine the dataset is tip and bubble free
+// lets imagine the dataset is tip and bubble free. Involves file I/O
+// input file will look like this : 4 2
+//                                  AAC|GTT
+//                                  CCT|AGT
+// .........
 
 public class PairedDeBruijnAssembler {
 
