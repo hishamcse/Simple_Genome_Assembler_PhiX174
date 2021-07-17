@@ -3,4 +3,6 @@ The phi X 174 bacteriophage is a single-stranded DNA virus that infects Escheric
 This work was completed by Fred Sanger and his team in 1977. This repository contains simple assembler, different components of it and various error correction techniques for assembling Phi X 174 bacteriophage.<br /> 
 The whole project description taken from one capstone project of COURSERA
 ( [Project Description](https://github.com/hishamcse/Simple_Genome_Assembler_PhiX174/blob/main/Genome%20Assembler/AssemblerChallengeDec10Release_Project%20Description_Coursera.pdf) )
+
+All the problems specifications are added here ( [Problems](https://github.com/hishamcse/Simple_Genome_Assembler_PhiX174/tree/main/Genome%20Assembler/Problem%20Specifications) )
  
